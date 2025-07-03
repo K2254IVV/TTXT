@@ -1,5 +1,5 @@
 
-# TabularTXT (TTXT) Format Documentation v1.0 (Launcher Edition)
+# TabularTXT (TTXT) Format Documentation v1.0
 
 ## Format Specification
 
