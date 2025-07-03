@@ -1,6 +1,6 @@
 Отлично, понял ваш формат! Переделываю документацию под ваш точный синтаксис:
 
-# TabularTXT (TTXT) Format Documentation v1.0 (Launcher Edition)
+# TabularTXT (TTXT) Format Documentation v1.0
 
 ## Спецификация формата
 
